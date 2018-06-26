@@ -1,0 +1,8 @@
+AACG
+ACGT
+CAAC
+GTTG
+TGCA
+
+Output:
+3
